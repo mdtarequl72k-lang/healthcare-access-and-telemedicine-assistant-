@@ -6,7 +6,7 @@ This project is my Capstone submission for the **5-Day AI Agents Intensive Cours
 ## 📋 Project Summary
 
 **Category:** Healthcare AI Agent  
-**Target Region:** Bangladesh (Sylhet, Dhaka, Chittagong)  
+**Target Region:** Bangladesh 
 **Language:** Bangla-English mixed  
 **Framework:** Google Agent Development Kit (ADK)  
 **Model:** Gemini 2.5 Flash Lite  
@@ -14,7 +14,7 @@ This project is my Capstone submission for the **5-Day AI Agents Intensive Cours
 
 **Key Features:**
 - ✅ Symptom triage (emergency/moderate/mild classification)
-- ✅ Hospital finder (7 hospitals across 3 cities)
+- ✅ Hospital finder 
 - ✅ Medicine reminder setup guide
 - ✅ Safe, responsible health guidance (not a doctor, always recommends consultation)
 - ✅ Bangla-English mixed responses for accessibility
